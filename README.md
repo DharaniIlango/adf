@@ -2,6 +2,12 @@
 
 # Make use of the README file for better readability
 
-```bash
-    git clone <repository-name>
+```java
+    import java.util.*;
+
+    public class Sample{
+        public static void main(String[] dharani){
+            System.out.println("Sample");
+        }
+    }
 ```
